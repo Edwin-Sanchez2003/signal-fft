@@ -1,2 +1,0 @@
-# Project Requirements
-At a high level, this repository is meant to provide a simple interface to ease interaction with signal data, graphically. It is meant to provide simple tools to programmatically build a signals of various properties.
